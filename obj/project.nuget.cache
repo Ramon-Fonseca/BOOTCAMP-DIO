@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Ix0aUPpJnPTioi5YT4QqKnMNemm0SCsWj4M8ANDsuXOTPcjqzoQ1FcTwrG4d7nGC8/ZBl9LGG7IVrSMPLtfBnw==",
+  "dgSpecHash": "J5yTvQeN9ZY=",
   "success": true,
   "projectFilePath": "C:\\Users\\Ramon\\Documents\\Bootcamp-Dio\\Bootcamp-Dio.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Ramon\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Ramon\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Ramon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Ramon\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,15 @@
+C:\Users\Ramon\Documents\Bootcamp-Dio\bin\Debug\net7.0\Bootcamp-Dio.exe
+C:\Users\Ramon\Documents\Bootcamp-Dio\bin\Debug\net7.0\Bootcamp-Dio.deps.json
+C:\Users\Ramon\Documents\Bootcamp-Dio\bin\Debug\net7.0\Bootcamp-Dio.runtimeconfig.json
+C:\Users\Ramon\Documents\Bootcamp-Dio\bin\Debug\net7.0\Bootcamp-Dio.dll
+C:\Users\Ramon\Documents\Bootcamp-Dio\bin\Debug\net7.0\Bootcamp-Dio.pdb
+C:\Users\Ramon\Documents\Bootcamp-Dio\obj\Debug\net7.0\Bootcamp-Dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramon\Documents\Bootcamp-Dio\obj\Debug\net7.0\Bootcamp-Dio.AssemblyInfoInputs.cache
+C:\Users\Ramon\Documents\Bootcamp-Dio\obj\Debug\net7.0\Bootcamp-Dio.AssemblyInfo.cs
+C:\Users\Ramon\Documents\Bootcamp-Dio\obj\Debug\net7.0\Bootcamp-Dio.csproj.CoreCompileInputs.cache
+C:\Users\Ramon\Documents\Bootcamp-Dio\obj\Debug\net7.0\Bootcamp-Dio.dll
+C:\Users\Ramon\Documents\Bootcamp-Dio\obj\Debug\net7.0\refint\Bootcamp-Dio.dll
+C:\Users\Ramon\Documents\Bootcamp-Dio\obj\Debug\net7.0\Bootcamp-Dio.pdb
+C:\Users\Ramon\Documents\Bootcamp-Dio\obj\Debug\net7.0\Bootcamp-Dio.genruntimeconfig.cache
+C:\Users\Ramon\Documents\Bootcamp-Dio\obj\Debug\net7.0\ref\Bootcamp-Dio.dll
+C:\Users\Ramon\Documents\Bootcamp-Dio\obj\Debug\net7.0\Bootcamp-Dio.sourcelink.json
